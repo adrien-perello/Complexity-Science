@@ -1,6 +1,6 @@
 # II. Coding Projects
 
-**[<< Study Materials](../Study-Material)**
+**[<< Study Materials](../Notebooks/Study-Material)**
 
 <hr>
 &nbsp;
@@ -50,10 +50,10 @@
 
 | Lesson | Binder | Nbviewer | Google Colab | Discipline | Topic | Implementation |
 |------- | ------ | -------- | -------------|------------|-------|----------------|
-| [Sierpinski Triangle](./Sierpinski-Triangle.ipynb) | (In progress) |  |
-| [Chaos Game](./Chaos-Game.ipynb)  | (In progress) |  |
-| [Koch Fractal](./Koch-Fractal.ipynb)  | (In progress) |  |
-| [Deterministic Chaos (Logistic Map)](./Logistic-Map.ipynb)  | (In progress) |  |
+| [Sierpinski Triangle](./Notebooks/Sierpinski-Triangle.ipynb) | (In progress) |  |
+| [Chaos Game](./Notebooks/Chaos-Game.ipynb)  | (In progress) |  |
+| [Koch Fractal](./Notebooks/Koch-Fractal.ipynb)  | (In progress) |  |
+| [Deterministic Chaos (Logistic Map)](./Notebooks/Logistic-Map.ipynb)  | (In progress) |  |
 
 
 
@@ -64,11 +64,11 @@
 
 | Lesson | Binder | Nbviewer | Google Colab | Discipline | Topic | Implementation |
 |------- | ------ | -------- | -------------|------------|-------|----------------|
-| [Double Pendulum](./Double-Pendulum.ipynb) | (In progress) | | | | |
-| [Lorenz Attractor](./Lorenz-Attractor.ipynb) | (In progress)  | | | | |
-| [3 Body Problem](./3-Body-Problem.ipynb) | (In progress)  | | | | |
-| [Diffusion-Limited Aggregation](./Diffusion-Limited-Aggregation.ipynb)  | (In progress) |  |  |  |  |
-| [Percolation](./Percolation.ipynb) | (In progress) |  |  |  |  |
+| [Double Pendulum](./Notebooks/Double-Pendulum.ipynb) | (In progress) | | | | |
+| [Lorenz Attractor](./Notebooks/Lorenz-Attractor.ipynb) | (In progress)  | | | | |
+| [3 Body Problem](./Notebooks/3-Body-Problem.ipynb) | (In progress)  | | | | |
+| [Diffusion-Limited Aggregation](./Notebooks/Diffusion-Limited-Aggregation.ipynb)  | (In progress) |  |  |  |  |
+| [Percolation](./Notebooks/Percolation.ipynb) | (In progress) |  |  |  |  |
 
 [Back to content](#content)  
 <br/>
@@ -77,8 +77,8 @@
 
 | Lesson | Binder | Nbviewer | Google Colab | Discipline | Topic | Implementation |
 |------- | ------ | -------- | -------------|------------|-------|----------------|
-| [Reaction Diffusion](./Reaction-Diffusion.ipynb)  | (In progress) |  |  |  |  |
-| [Percolation](./Percolation.ipynb) | (In progress) |  |  |  |  |
+| [Reaction Diffusion](./Notebooks/Reaction-Diffusion.ipynb)  | (In progress) |  |  |  |  |
+| [Percolation](./Notebooks/Percolation.ipynb) | (In progress) |  |  |  |  |
 
 [Back to content](#content)  
 <br/>
@@ -87,12 +87,12 @@
 
 | Lesson | Binder | Nbviewer | Google Colab | Discipline | Topic | Implementation |
 |------- | ------ | -------- | -------------|------------|-------|----------------|
-| [Reaction Diffusion](./Reaction-Diffusion.ipynb)  | (In progress) |  |  |  |  |
-| [Covid Simulation](./Covid-Simulation.ipynb)  | (In progress) | | | | | |
-| [Predator-Prey](./Predator-Prey.ipynb)  | (In progress) | | | | | |
-| [Dynamics of Evolution](./Evolution-Dynamics.ipynb) | (In progress) |  |  |  |  |
-| [Hawk-Dove Game](./Hawk-Dove-Game.ipynb) | (In progress) |  |  |  |  |
-| [Evolution of Altruism](./Altruism-Evolution.ipynb) | (In progress) |  |  |  |  |
+| [Reaction Diffusion](./Notebooks/Reaction-Diffusion.ipynb)  | (In progress) |  |  |  |  |
+| [Covid Simulation](./Notebooks/Covid-Simulation.ipynb)  | (In progress) | | | | | |
+| [Predator-Prey](./Notebooks/Predator-Prey.ipynb)  | (In progress) | | | | | |
+| [Dynamics of Evolution](./Notebooks/Evolution-Dynamics.ipynb) | (In progress) |  |  |  |  |
+| [Hawk-Dove Game](./Notebooks/Hawk-Dove-Game.ipynb) | (In progress) |  |  |  |  |
+| [Evolution of Altruism](./Notebooks/Altruism-Evolution.ipynb) | (In progress) |  |  |  |  |
 
 
 [Back to content](#content)  
@@ -102,8 +102,8 @@
 
 | Lesson | Binder | Nbviewer | Google Colab | Discipline | Topic | Implementation |
 |------- | ------ | -------- | -------------|------------|-------|----------------|
-| [Forest Fires](./Forest-Fires.ipynb) | (In progress) |  |  |  |  |
-| [Sandpiles](./Sandpiles.ipynb) | (In progress) |  |  |  |  |
+| [Forest Fires](./Notebooks/Forest-Fires.ipynb) | (In progress) |  |  |  |  |
+| [Sandpiles](./Notebooks/Sandpiles.ipynb) | (In progress) |  |  |  |  |
 
 [Back to content](#content)  
 <br/>
@@ -112,12 +112,12 @@
 
 | Lesson | Binder | Nbviewer | Google Colab | Discipline | Topic | Implementation |
 |------- | ------ | -------- | -------------|------------|-------|----------------|
-| [Predator-Prey](./Predator-Prey.ipynb)  | (In progress) | | | | | |
-| [Flocking Simulation](./Flocking-Simulation.ipynb)  | (In progress) |  |  |  |  |
-| [Ant Colony](./Ant-Colony.ipynb)  | (In progress) |  |  |  |  |
-| [Forest Fires](./Forest-Fires.ipynb) | (In progress) |  |  |  |  |
-| [Dynamics of Evolution](./Evolution-Dynamics.ipynb) | (In progress) |  |  |  |  |
-| [Deterministic Chaos (Logistic Map)](./Logistic-Map.ipynb)  | (In progress) |  |
+| [Predator-Prey](./Notebooks/Predator-Prey.ipynb)  | (In progress) | | | | | |
+| [Flocking Simulation](./Notebooks/Flocking-Simulation.ipynb)  | (In progress) |  |  |  |  |
+| [Ant Colony](./Notebooks/Ant-Colony.ipynb)  | (In progress) |  |  |  |  |
+| [Forest Fires](./Notebooks/Forest-Fires.ipynb) | (In progress) |  |  |  |  |
+| [Dynamics of Evolution](./Notebooks/Evolution-Dynamics.ipynb) | (In progress) |  |  |  |  |
+| [Deterministic Chaos (Logistic Map)](./Notebooks/Logistic-Map.ipynb)  | (In progress) |  |
 
 [Back to content](#content)  
 <br/>
@@ -126,8 +126,8 @@
 
 | Lesson | Binder | Nbviewer | Google Colab | Discipline | Topic | Implementation |
 |------- | ------ | -------- | -------------|------------|-------|----------------|
-| [Schelling Segregation model](./Schellings-Segregation.ipynb) | (In progress) |  |  |  |  |
-| [Complex Contagion](./Complex-Contagion.ipynb) | (In progress) |  |  |  |  |
+| [Schelling Segregation model](./Notebooks/Schellings-Segregation.ipynb) | (In progress) |  |  |  |  |
+| [Complex Contagion](./Notebooks/Complex-Contagion.ipynb) | (In progress) |  |  |  |  |
 
 [Back to content](#content)  
 <br/>
@@ -141,15 +141,15 @@
 
 | Lesson | Binder | Nbviewer | Google Colab | Discipline | Topic | Implementation |
 |------- | ------ | -------- | -------------|------------|-------|----------------|
-| [Double Pendulum](./Double-Pendulum.ipynb) | (In progress) | | | | |
-| [Lorenz Attractor](./Lorenz-Attractor.ipynb) | (In progress)  | | | | |
-| [3 Body Problem](./3-Body-Problem.ipynb) | (In progress)  | | | | |
-| [Predator-Prey](./Predator-Prey.ipynb)  | (In progress) | | | | | |
-| [Covid Simulation](./Covid-Simulation.ipynb)  | (In progress) | | | | | |
-| [Forest Fires](./Forest-Fires.ipynb) | (In progress) |  |  |  |  |
-| [Chaos Game](./Chaos-Game.ipynb)  | (In progress) |  |
-| [Langton's Ant](./Langton-Ant.ipynb)  |(In progress) | | | | | |
-| [Deterministic Chaos (Logistic Map)](./Logistic-Map.ipynb)  | (In progress) |  |
+| [Double Pendulum](./Notebooks/Double-Pendulum.ipynb) | (In progress) | | | | |
+| [Lorenz Attractor](./Notebooks/Lorenz-Attractor.ipynb) | (In progress)  | | | | |
+| [3 Body Problem](./Notebooks/3-Body-Problem.ipynb) | (In progress)  | | | | |
+| [Predator-Prey](./Notebooks/Predator-Prey.ipynb)  | (In progress) | | | | | |
+| [Covid Simulation](./Notebooks/Covid-Simulation.ipynb)  | (In progress) | | | | | |
+| [Forest Fires](./Notebooks/Forest-Fires.ipynb) | (In progress) |  |  |  |  |
+| [Chaos Game](./Notebooks/Chaos-Game.ipynb)  | (In progress) |  |
+| [Langton's Ant](./Notebooks/Langton-Ant.ipynb)  |(In progress) | | | | | |
+| [Deterministic Chaos (Logistic Map)](./Notebooks/Logistic-Map.ipynb)  | (In progress) |  |
 
 [Back to content](#content)  
 <br/>
@@ -167,18 +167,18 @@
 
 | Lesson | Binder | Nbviewer | Google Colab | Discipline | Topic | Implementation |
 |------- | ------ | -------- | -------------|------------|-------|----------------|
-| [Wolfram's Elementary Cellular Automata](./Elementary-Cellular-Automata.ipynb)  | (In progress) | | | | | |
-| [Conway's Game of Life](./Game-of-Life.ipynb)  |(In progress) | | | | | |
-| [Langton's Ant](./Langton-Ant.ipynb)  |(In progress) | | | | | |
-| [Sierpinski Triangle](./Sierpinski-Triangle.ipynb) | (In progress) |  |
-| [Chaos Game](./Chaos-Game.ipynb)  | (In progress) |  |
-| [Koch Fractal](./Koch-Fractal.ipynb)  | (In progress) |  |
-| [Flocking Simulation](./Flocking-Simulation.ipynb)  | (In progress) |  |  |  |  |
-| [Sandpiles](./Sandpiles.ipynb) | (In progress) |  |  |  |  |
-| [Diffusion-Limited Aggregation](./Diffusion-Limited-Aggregation.ipynb)  | (In progress) |  |  |  |  |
-| [Reaction Diffusion](./Reaction-Diffusion.ipynb)  | (In progress) |  |  |  |  |
-| [Evolutionary Steering Behaviors](./Evolutionary-Steering.ipynb)|  (In progress) | | |
-| [Schelling Segregation model](./Schellings-Segregation.ipynb) | (In progress) |  |  |  |  |
+| [Wolfram's Elementary Cellular Automata](./Notebooks/Elementary-Cellular-Automata.ipynb)  | (In progress) | | | | | |
+| [Conway's Game of Life](./Notebooks/Game-of-Life.ipynb)  |(In progress) | | | | | |
+| [Langton's Ant](./Notebooks/Langton-Ant.ipynb)  |(In progress) | | | | | |
+| [Sierpinski Triangle](./Notebooks/Sierpinski-Triangle.ipynb) | (In progress) |  |
+| [Chaos Game](./Notebooks/Chaos-Game.ipynb)  | (In progress) |  |
+| [Koch Fractal](./Notebooks/Koch-Fractal.ipynb)  | (In progress) |  |
+| [Flocking Simulation](./Notebooks/Flocking-Simulation.ipynb)  | (In progress) |  |  |  |  |
+| [Sandpiles](./Notebooks/Sandpiles.ipynb) | (In progress) |  |  |  |  |
+| [Diffusion-Limited Aggregation](./Notebooks/Diffusion-Limited-Aggregation.ipynb)  | (In progress) |  |  |  |  |
+| [Reaction Diffusion](./Notebooks/Reaction-Diffusion.ipynb)  | (In progress) |  |  |  |  |
+| [Evolutionary Steering Behaviors](./Notebooks/Evolutionary-Steering.ipynb)|  (In progress) | | |
+| [Schelling Segregation model](./Notebooks/Schellings-Segregation.ipynb) | (In progress) |  |  |  |  |
 
 [Back to content](#content)  
 <br/>
@@ -188,13 +188,13 @@
 
 | Lesson | Binder | Nbviewer | Google Colab | Discipline | Topic | Implementation |
 |------- | ------ | -------- | -------------|------------|-------|----------------|
-| [Predator-Prey](./Predator-Prey.ipynb)  | (In progress) | | | | | |
-| [Covid Simulation](./Covid-Simulation.ipynb)  | (In progress) | | | | | |
-| [Smart Rockets](./Smart-Rockets.ipynb)|  (In progress) | | |
-| [Dynamics of Evolution](./Evolution-Dynamics.ipynb) | (In progress) |  |  |  |  |
-| [Hawk-Dove Game](./Hawk-Dove-Game.ipynb) | (In progress) |  |  |  |  |
-| [Evolution of Altruism](./Altruism-Evolution.ipynb) | (In progress) |  |  |  |  |
-| [Deterministic Chaos (Logistic Map)](./Logistic-Map.ipynb)  | (In progress) |  |
+| [Predator-Prey](./Notebooks/Predator-Prey.ipynb)  | (In progress) | | | | | |
+| [Covid Simulation](./Notebooks/Covid-Simulation.ipynb)  | (In progress) | | | | | |
+| [Smart Rockets](./Notebooks/Smart-Rockets.ipynb)|  (In progress) | | |
+| [Dynamics of Evolution](./Notebooks/Evolution-Dynamics.ipynb) | (In progress) |  |  |  |  |
+| [Hawk-Dove Game](./Notebooks/Hawk-Dove-Game.ipynb) | (In progress) |  |  |  |  |
+| [Evolution of Altruism](./Notebooks/Altruism-Evolution.ipynb) | (In progress) |  |  |  |  |
+| [Deterministic Chaos (Logistic Map)](./Notebooks/Logistic-Map.ipynb)  | (In progress) |  |
 
 [Back to content](#content)  
 <br/>
@@ -203,8 +203,8 @@
 
 | Lesson | Binder | Nbviewer | Google Colab | Discipline | Topic | Implementation |
 |------- | ------ | -------- | -------------|------------|-------|----------------|
-| [Flocking Simulation](./Flocking-Simulation.ipynb)  | (In progress) |  |  |  |  |
-| [Ant Colony](./Ant-Colony.ipynb)  | (In progress) |  |  |  |  |
+| [Flocking Simulation](./Notebooks/Flocking-Simulation.ipynb)  | (In progress) |  |  |  |  |
+| [Ant Colony](./Notebooks/Ant-Colony.ipynb)  | (In progress) |  |  |  |  |
 
 [Back to content](#content)  
 <br/>
@@ -213,9 +213,9 @@
 
 | Lesson | Binder | Nbviewer | Google Colab | Discipline | Topic | Implementation |
 |------- | ------ | -------- | -------------|------------|-------|----------------|
-| [Traveling Salesperson with Genetic Algorithm](./TSP-with-GA.ipynb)|  (In progress) | | |
-| [Percolation](./Percolation.ipynb) | (In progress) |  |  |  |  |
-| [Complex Contagion](./Complex-Contagion.ipynb) | (In progress) |  |  |  |  |
+| [Traveling Salesperson with Genetic Algorithm](./Notebooks/TSP-with-GA.ipynb)|  (In progress) | | |
+| [Percolation](./Notebooks/Percolation.ipynb) | (In progress) |  |  |  |  |
+| [Complex Contagion](./Notebooks/Complex-Contagion.ipynb) | (In progress) |  |  |  |  |
 
 [Back to content](#content)  
 <br/>
@@ -224,8 +224,8 @@
 
 | Lesson | Binder | Nbviewer | Google Colab | Discipline | Topic | Implementation |
 |------- | ------ | -------- | -------------|------------|-------|----------------|
-| [Percolation](./Percolation.ipynb) | (In progress) |  |  |  |  |
-| [Complex Contagion](./Complex-Contagion.ipynb) | (In progress) |  |  |  |  |
+| [Percolation](./Notebooks/Percolation.ipynb) | (In progress) |  |  |  |  |
+| [Complex Contagion](./Notebooks/Complex-Contagion.ipynb) | (In progress) |  |  |  |  |
 
 [Back to content](#content)  
 <br/>
@@ -235,8 +235,8 @@
 
 | Lesson | Binder | Nbviewer | Google Colab | Discipline | Topic | Implementation |
 |------- | ------ | -------- | -------------|------------|-------|----------------|
-| [Hawk-Dove Game](./Hawk-Dove-Game.ipynb) | (In progress) |  |  |  |  |
-| [Evolution of Altruism](./Altruism-Evolution.ipynb) | (In progress) |  |  |  |  |
+| [Hawk-Dove Game](./Notebooks/Hawk-Dove-Game.ipynb) | (In progress) |  |  |  |  |
+| [Evolution of Altruism](./Notebooks/Altruism-Evolution.ipynb) | (In progress) |  |  |  |  |
 
 [Back to content](#content)  
 <br/>
@@ -250,15 +250,15 @@
 
 | Lesson | Binder | Nbviewer | Google Colab | Discipline | Topic | Implementation |
 |------- | ------ | -------- | -------------|------------|-------|----------------|
-| [Wolfram's Elementary Cellular Automata](./Elementary-Cellular-Automata.ipynb)  | (In progress) | | | | | |
-| [Conway's Game of Life](./Game-of-Life.ipynb)  |(In progress) | | | | | |
-| [Langton's Ant](./Langton-Ant.ipynb)  |(In progress) | | | | | |
-| [Forest Fires](./Forest-Fires.ipynb) | (In progress) |  |  |  |  |
-| [Sandpiles](./Sandpiles.ipynb) | (In progress) |  |  |  |  |
-| [Reaction Diffusion](./Reaction-Diffusion.ipynb)  | (In progress) |  |  |  |  |
-| [Percolation](./Percolation.ipynb) | (In progress) |  |  |  |  |
-| [Schelling Segregation model](./Schellings-Segregation.ipynb) | (In progress) |  |  |  |  |
-| [Dynamics of Evolution](./Evolution-Dynamics.ipynb) | (In progress) |  |  |  |  |
+| [Wolfram's Elementary Cellular Automata](./Notebooks/Elementary-Cellular-Automata.ipynb)  | (In progress) | | | | | |
+| [Conway's Game of Life](./Notebooks/Game-of-Life.ipynb)  |(In progress) | | | | | |
+| [Langton's Ant](./Notebooks/Langton-Ant.ipynb)  |(In progress) | | | | | |
+| [Forest Fires](./Notebooks/Forest-Fires.ipynb) | (In progress) |  |  |  |  |
+| [Sandpiles](./Notebooks/Sandpiles.ipynb) | (In progress) |  |  |  |  |
+| [Reaction Diffusion](./Notebooks/Reaction-Diffusion.ipynb)  | (In progress) |  |  |  |  |
+| [Percolation](./Notebooks/Percolation.ipynb) | (In progress) |  |  |  |  |
+| [Schelling Segregation model](./Notebooks/Schellings-Segregation.ipynb) | (In progress) |  |  |  |  |
+| [Dynamics of Evolution](./Notebooks/Evolution-Dynamics.ipynb) | (In progress) |  |  |  |  |
 
 
 [Back to content](#content)  
@@ -268,13 +268,13 @@
 
 | Lesson | Binder | Nbviewer | Google Colab | Discipline | Topic | Implementation |
 |------- | ------ | -------- | -------------|------------|-------|----------------|
-| [Flocking Simulation](./Flocking-Simulation.ipynb)  | (In progress) |  |  |  |  |
-| [Ant Colony](./Ant-Colony.ipynb)  | (In progress) |  |  |  |  |
-| [Diffusion-Limited Aggregation](./Diffusion-Limited-Aggregation.ipynb)  | (In progress) |  |  |  |  |
-| [Predator-Prey](./Predator-Prey.ipynb)  | (In progress) | | | | | |
-| [Evolutionary Steering Behaviors](./Evolutionary-Steering.ipynb)|  (In progress) | | |
-| [Hawk-Dove Game](./Hawk-Dove-Game.ipynb) | (In progress) |  |  |  |  |
-| [Evolution of Altruism](./Altruism-Evolution.ipynb) | (In progress) |  |  |  |  |
+| [Flocking Simulation](./Notebooks/Flocking-Simulation.ipynb)  | (In progress) |  |  |  |  |
+| [Ant Colony](./Notebooks/Ant-Colony.ipynb)  | (In progress) |  |  |  |  |
+| [Diffusion-Limited Aggregation](./Notebooks/Diffusion-Limited-Aggregation.ipynb)  | (In progress) |  |  |  |  |
+| [Predator-Prey](./Notebooks/Predator-Prey.ipynb)  | (In progress) | | | | | |
+| [Evolutionary Steering Behaviors](./Notebooks/Evolutionary-Steering.ipynb)|  (In progress) | | |
+| [Hawk-Dove Game](./Notebooks/Hawk-Dove-Game.ipynb) | (In progress) |  |  |  |  |
+| [Evolution of Altruism](./Notebooks/Altruism-Evolution.ipynb) | (In progress) |  |  |  |  |
 
 [Back to content](#content)  
 <br/>
@@ -283,8 +283,8 @@
 
 | Lesson | Binder | Nbviewer | Google Colab | Discipline | Topic | Implementation |
 |------- | ------ | -------- | -------------|------------|-------|----------------|
-| [Predator-Prey](./Predator-Prey.ipynb)  | (In progress) | | | | | |
-| [Covid Simulation](./Covid-Simulation.ipynb)  | (In progress) | | | | | |
+| [Predator-Prey](./Notebooks/Predator-Prey.ipynb)  | (In progress) | | | | | |
+| [Covid Simulation](./Notebooks/Covid-Simulation.ipynb)  | (In progress) | | | | | |
 
 [Back to content](#content)  
 <br/>
@@ -293,8 +293,8 @@
 
 | Lesson | Binder | Nbviewer | Google Colab | Discipline | Topic | Implementation |
 |------- | ------ | -------- | -------------|------------|-------|----------------|
-| [Hawk-Dove Game](./Hawk-Dove-Game.ipynb) | (In progress) |  |  |  |  |
-| [Evolution of Altruism](./Altruism-Evolution.ipynb) | (In progress) |  |  |  |  |
+| [Hawk-Dove Game](./Notebooks/Hawk-Dove-Game.ipynb) | (In progress) |  |  |  |  |
+| [Evolution of Altruism](./Notebooks/Altruism-Evolution.ipynb) | (In progress) |  |  |  |  |
 
 [Back to content](#content)  
 <br/>
@@ -303,11 +303,11 @@
 
 | Lesson | Binder | Nbviewer | Google Colab | Discipline | Topic | Implementation |
 |------- | ------ | -------- | -------------|------------|-------|----------------|
-| [Smart Rockets](./Smart-Rockets.ipynb)|  (In progress) | | |
-| [Traveling Salesperson with Genetic Algorithm](./TSP-with-GA.ipynb)|  (In progress) | | |
-| [Evolutionary Steering Behaviors](./Evolutionary-Steering.ipynb)|  (In progress) | | |
-| [Hawk-Dove Game](./Hawk-Dove-Game.ipynb) | (In progress) |  |  |  |  |
-| [Evolution of Altruism](./Altruism-Evolution.ipynb) | (In progress) |  |  |  |  |
+| [Smart Rockets](./Notebooks/Smart-Rockets.ipynb)|  (In progress) | | |
+| [Traveling Salesperson with Genetic Algorithm](./Notebooks/TSP-with-GA.ipynb)|  (In progress) | | |
+| [Evolutionary Steering Behaviors](./Notebooks/Evolutionary-Steering.ipynb)|  (In progress) | | |
+| [Hawk-Dove Game](./Notebooks/Hawk-Dove-Game.ipynb) | (In progress) |  |  |  |  |
+| [Evolution of Altruism](./Notebooks/Altruism-Evolution.ipynb) | (In progress) |  |  |  |  |
 
 [Back to content](#content)  
 <br/>
@@ -316,7 +316,7 @@
 
 | Lesson | Binder | Nbviewer | Google Colab | Discipline | Topic | Implementation |
 |------- | ------ | -------- | -------------|------------|-------|----------------|
-| [Complex Contagion](./Complex-Contagion.ipynb) | (In progress) |  |  |  |  |
+| [Complex Contagion](./Notebooks/Complex-Contagion.ipynb) | (In progress) |  |  |  |  |
 
 
 

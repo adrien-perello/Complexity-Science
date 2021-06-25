@@ -1,6 +1,6 @@
 # II. Coding Projects
 
-**[<< Study Materials](../Notebooks/Study-Material)**
+**[<< Study Materials](../01_Study-Material)**
 
 <hr>
 &nbsp;

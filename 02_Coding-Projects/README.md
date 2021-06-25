@@ -53,8 +53,7 @@
 | [Sierpinski Triangle](./Sierpinski-Triangle.ipynb) | (In progress) |  |
 | [Chaos Game](./Chaos-Game.ipynb)  | (In progress) |  |
 | [Koch Fractal](./Koch-Fractal.ipynb)  | (In progress) |  |
-| [Deterministic Chaos (Logistic Map)](./Logistic-Map.ipynb)
-  | (In progress) |  |
+| [Deterministic Chaos (Logistic Map)](./Logistic-Map.ipynb)  | (In progress) |  |
 
 
 
@@ -118,8 +117,7 @@
 | [Ant Colony](./Ant-Colony.ipynb)  | (In progress) |  |  |  |  |
 | [Forest Fires](./Forest-Fires.ipynb) | (In progress) |  |  |  |  |
 | [Dynamics of Evolution](./Evolution-Dynamics.ipynb) | (In progress) |  |  |  |  |
-| [Deterministic Chaos (Logistic Map)](./Logistic-Map.ipynb)
-  | (In progress) |  |
+| [Deterministic Chaos (Logistic Map)](./Logistic-Map.ipynb)  | (In progress) |  |
 
 [Back to content](#content)  
 <br/>
@@ -151,8 +149,7 @@
 | [Forest Fires](./Forest-Fires.ipynb) | (In progress) |  |  |  |  |
 | [Chaos Game](./Chaos-Game.ipynb)  | (In progress) |  |
 | [Langton's Ant](./Langton-Ant.ipynb)  |(In progress) | | | | | |
-| [Deterministic Chaos (Logistic Map)](./Logistic-Map.ipynb)
-  | (In progress) |  |
+| [Deterministic Chaos (Logistic Map)](./Logistic-Map.ipynb)  | (In progress) |  |
 
 [Back to content](#content)  
 <br/>
@@ -197,8 +194,7 @@
 | [Dynamics of Evolution](./Evolution-Dynamics.ipynb) | (In progress) |  |  |  |  |
 | [Hawk-Dove Game](./Hawk-Dove-Game.ipynb) | (In progress) |  |  |  |  |
 | [Evolution of Altruism](./Altruism-Evolution.ipynb) | (In progress) |  |  |  |  |
-| [Deterministic Chaos (Logistic Map)](./Logistic-Map.ipynb)
-  | (In progress) |  |
+| [Deterministic Chaos (Logistic Map)](./Logistic-Map.ipynb)  | (In progress) |  |
 
 [Back to content](#content)  
 <br/>

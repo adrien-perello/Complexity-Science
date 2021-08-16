@@ -5,6 +5,7 @@ channels:
 dependencies:
   - python
   - notebook
+  - jupyter_contrib_nbextensions
   - numpy
   - xarray
   - ipywidgets

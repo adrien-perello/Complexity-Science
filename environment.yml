@@ -1,0 +1,11 @@
+name: jupyter_dashboards_workshop
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - notebook
+  - numpy
+  - xarray
+  - ipywidgets
+  - plotly

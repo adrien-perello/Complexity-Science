@@ -1,6 +1,10 @@
+"""Some math widget visualisation scripts"""
+
+
 from fractions import Fraction
 from dataclasses import dataclass
 import numpy as np
+import xarray as xr
 import ipywidgets as widgets
 
 
@@ -30,6 +34,14 @@ class Slider:
             description=self.name,
             continuous_update=True,
         )
+
+    def __getitem__(self, key):
+        """Get val[i]"""
+        return self.val[key]
+
+    def get_val(self):
+        """Get val[i]"""
+        return self.slider.value
 
 
 @dataclass
@@ -113,6 +125,75 @@ class AnimateSlider:
         widgets.jslink((self.play, "value"), (self.slider, "value"))
 
 
+@dataclass
+class VectorSlider2D:
+    """Represent a 2D vector as 2 linear sliders (one for each dimension).
+
+    Args:
+        - str for name
+        - 2x tuples (start, end, step) for both x and y
+
+    Returns:
+        - 2x ndarray of all options of both x and y
+        - 2x dict() for value, index mapping
+        - 2x sliders
+    """
+
+    name: str
+    x_settings: tuple  # (start, end, stop, val_ini)
+    y_settings: tuple  # (start, end, stop, val_ini)
+
+    def __post_init__(self):
+        self.x = Slider(self.name + "x", *self.x_settings)
+        self.y = Slider(self.name + "y", *self.y_settings)
+        self.slider = widgets.VBox([self.y.slider, self.x.slider])
+        self.y.slider.orientation = "vertical"
+        self.slider.layout.align_items = "center"
+
+    def __getitem__(self, coord):
+        """Get Vector[i,j]"""
+        i, j = coord
+        return np.array([self.x[i], self.y[j]])
+
+    def __add__(self, other):
+        """Get all vector combinations from adding 2 vectors"""
+        datax = xr.DataArray(
+            self.x[:, None] + other.x[:],
+            dims=(self.name, other.name),
+            coords={self.name: self.x[:], other.name: other.x[:]},
+        )
+        datay = xr.DataArray(
+            self.y[:, None] + other.y[:],
+            dims=(self.name, other.name),
+            coords={self.name: self.y[:], other.name: other.y[:]},
+        )
+        return xr.Dataset(
+            data_vars={"x": datax, "y": datay},
+            attrs={"name": f"{self.name}+{other.name}"},
+        )
+
+    def __sub__(self, other):
+        """Get all vector combinations from subtracting 2 vectors"""
+        datax = xr.DataArray(
+            self.x[:, None] - other.x[:],
+            dims=(self.name, other.name),
+            coords={self.name: self.x[:], other.name: other.x[:]},
+        )
+        datay = xr.DataArray(
+            self.y[:, None] - other.y[:],
+            dims=(self.name, other.name),
+            coords={self.name: self.y[:], other.name: other.y[:]},
+        )
+        return xr.Dataset(
+            data_vars={"x": datax, "y": datay},
+            attrs={"name": f"{self.name}-{other.name}"},
+        )
+
+    def get_val(self):
+        """Get val[i]"""
+        return np.array([self.x.get_val(), self.y.get_val()])
+
+
 def nparange(start, stop, step):
     """Modified np.arange()
         - improve float precision (by use of fractions)
@@ -137,7 +218,7 @@ def get_frac(step, readout_format=".16f", atol=1e-12):
     frac = Fraction(precision.format(step))
     if frac.denominator > 1 / atol:
         print(
-            "WARNING: potential Floats inconsistencies due to 'step'"
-            " being an irrational number"
+            "WARNING: potential Floats inconsistencies."
+            " Check if 'step' is an irrational number"
         )
     return (frac.numerator, frac.denominator)

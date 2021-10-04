@@ -89,9 +89,9 @@ def get_mat_str(arr):
     temp = (" & ".join(str(col) for col in row) for row in arr)
     arrstr = " \\ ".join(row for row in temp)
     return (
-        r"$\begin{bmatrix} "
+        r"$$\begin{bmatrix} "
         + arrstr.encode("unicode_escape").decode()
-        + r" \end{bmatrix}$"
+        + r" \end{bmatrix}$$"
     )
 
 

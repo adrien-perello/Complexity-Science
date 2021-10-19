@@ -10,3 +10,5 @@ dependencies:
   - xarray
   - ipywidgets
   - plotly
+  - matplotlib
+  - numba

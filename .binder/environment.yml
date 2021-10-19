@@ -7,8 +7,9 @@ dependencies:
   - notebook
   - jupyter_contrib_nbextensions
   - numpy
-  - xarray
+  # - xarray
   - ipywidgets
-  - plotly
+  # - plotly
   - matplotlib
   - numba
+  - ipympl

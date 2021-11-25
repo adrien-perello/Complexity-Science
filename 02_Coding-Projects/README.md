@@ -1,6 +1,6 @@
 # II. Coding Projects
 
-**[<< Study Materials](../01_Study-Material)**
+**[<< Study Materials](../01_Study-Material)   |   [Python Libraries >>](./03_Python-Libraries)**
 
 <hr>
 &nbsp;
